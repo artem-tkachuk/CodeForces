@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 
 	unsigned short n, len;	//1 <= n <= 100, 1 <= len <= 100
-	string word;		
+	string word;
 
 	cin >> n;
 
